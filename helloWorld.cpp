@@ -7,5 +7,6 @@ int main()
     cout << "Hello World" << endl;
     cout << "We're adding something to make sure it works!" << endl;
     cout << "testing" << endl;
+    cout << "Adding a new line, woohoo!!!" << endl;
   return 0;
 }
