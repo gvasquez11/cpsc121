@@ -8,5 +8,6 @@ int main()
     cout << "We're adding something to make sure it works!" << endl;
     cout << "testing" << endl;
     cout << "Adding a new line, woohoo!!!" << endl;
+    cout << "Adding another new line, woohoo!!!" << endl;
   return 0;
 }
