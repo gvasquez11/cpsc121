@@ -10,5 +10,10 @@ int main()
     cout << "Adding a new line, woohoo!!!" << endl;
     cout << "Adding another new line, woohoo!!!" << endl;
     cout << "new line" << endl;
+
+    int num = 0;
+    cin >> num;
+
+
   return 0;
 }
