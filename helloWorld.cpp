@@ -12,6 +12,7 @@ int main()
     cout << "new line" << endl;
 
     int num = 0;
+    cout << "please enter in a number: ";
     cin >> num;
 
 
