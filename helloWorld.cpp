@@ -14,6 +14,7 @@ int main()
     int num = 0;
     cout << "please enter in a number: ";
     cin >> num;
+    cout << "Number entered is:" << num << endl;
 
 
   return 0;
