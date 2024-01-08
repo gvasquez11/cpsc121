@@ -21,6 +21,7 @@ int main()
     cout << "new line" << endl;
     cout << "new line" << endl;
     cout << "new line" << endl;
+    cout << "rest day" << endl;
 
   return 0;
 }
