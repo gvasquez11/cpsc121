@@ -23,6 +23,7 @@ int main()
     cout << "new line" << endl;
     cout << "rest day" << endl;
     cout << "busy day" << endl;
+    cout << "rest day" << endl;
 
   return 0;
 }
