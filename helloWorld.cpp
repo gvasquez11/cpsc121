@@ -24,6 +24,7 @@ int main()
     cout << "rest day" << endl;
     cout << "busy day" << endl;
     cout << "rest day" << endl;
+    cout << "busy day" << endl;
 
   return 0;
 }
