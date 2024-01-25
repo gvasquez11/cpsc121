@@ -26,6 +26,6 @@ int main()
     cout << "rest day" << endl;
     cout << "busy day" << endl;
     cout << "In case" << endl;
-
+    cout << "In case" << endl;
   return 0;
 }
