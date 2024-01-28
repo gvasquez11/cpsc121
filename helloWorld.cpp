@@ -27,5 +27,6 @@ int main()
     cout << "busy day" << endl;
     cout << "In case" << endl;
     cout << "In case" << endl;
+    cout << "new line" << endl;
   return 0;
 }
