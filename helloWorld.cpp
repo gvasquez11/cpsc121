@@ -29,5 +29,6 @@ int main()
     cout << "In case" << endl;
     cout << "new line" << endl;
     cout << "work was crazy today" << endl;
+    cout << "Mental rest day" << endl;
   return 0;
 }
