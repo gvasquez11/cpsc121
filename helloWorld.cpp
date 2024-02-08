@@ -30,5 +30,6 @@ int main()
     cout << "new line" << endl;
     cout << "work was crazy today" << endl;
     cout << "Mental rest day" << endl;
+    cout << "League day" << endl;
   return 0;
 }
