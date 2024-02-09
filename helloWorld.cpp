@@ -31,5 +31,6 @@ int main()
     cout << "work was crazy today" << endl;
     cout << "Mental rest day" << endl;
     cout << "League day" << endl;
+    cout << "tired" << endl;
   return 0;
 }
