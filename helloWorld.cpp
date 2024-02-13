@@ -15,22 +15,6 @@ int main()
     cout << "please enter in a number: ";
     cin >> num;
     cout << "Number entered is:" << num << endl;
-    cout << "new line" << endl;
-    cout << "new line" << endl;
-    cout << "new line" << endl;
-    cout << "new line" << endl;
-    cout << "new line" << endl;
-    cout << "new line" << endl;
-    cout << "rest day" << endl;
-    cout << "busy day" << endl;
-    cout << "rest day" << endl;
-    cout << "busy day" << endl;
-    cout << "In case" << endl;
-    cout << "In case" << endl;
-    cout << "new line" << endl;
-    cout << "work was crazy today" << endl;
-    cout << "Mental rest day" << endl;
-    cout << "League day" << endl;
-    cout << "tired" << endl;
+
   return 0;
 }
