@@ -16,6 +16,6 @@ int main()
     cin >> num;
     cout << "Number entered is:" << num << endl;
     cout << "Sigh" << endl;
-
+    cout << "In case" << endl;
   return 0;
 }
