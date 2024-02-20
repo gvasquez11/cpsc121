@@ -18,5 +18,6 @@ int main()
     cout << "Sigh" << endl;
     cout << "In case" << endl;
     cout << "hmm" << endl;
+    cout << "long day" << endl;
   return 0;
 }
