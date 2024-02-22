@@ -19,5 +19,6 @@ int main()
     cout << "In case" << endl;
     cout << "hmm" << endl;
     cout << "long day" << endl;
+    cout << "sigh" << endl;
   return 0;
 }
