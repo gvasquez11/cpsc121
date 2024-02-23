@@ -20,5 +20,6 @@ int main()
     cout << "hmm" << endl;
     cout << "long day" << endl;
     cout << "sigh" << endl;
+    cout << "New line" << endl;
   return 0;
 }
