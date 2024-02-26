@@ -21,5 +21,6 @@ int main()
     cout << "long day" << endl;
     cout << "sigh" << endl;
     cout << "New line" << endl;
+    cout << "Tired" << endl;
   return 0;
 }
