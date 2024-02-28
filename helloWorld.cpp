@@ -22,5 +22,6 @@ int main()
     cout << "sigh" << endl;
     cout << "New line" << endl;
     cout << "Tired" << endl;
+    cout << "hmm" << endl;
   return 0;
 }
