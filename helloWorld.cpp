@@ -17,11 +17,6 @@ int main()
     cout << "Number entered is:" << num << endl;
     cout << "Sigh" << endl;
     cout << "In case" << endl;
-    cout << "hmm" << endl;
-    cout << "long day" << endl;
-    cout << "sigh" << endl;
-    cout << "New line" << endl;
-    cout << "Tired" << endl;
-    cout << "hmm" << endl;
+
   return 0;
 }
