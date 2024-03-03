@@ -18,6 +18,7 @@ int main()
     cout << "Sigh" << endl;
     cout << "In case" << endl;
     cout << "bummer" << endl;
+    cout << "new line" << endl;
 
   return 0;
 }
