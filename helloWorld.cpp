@@ -16,6 +16,6 @@ int main()
     cout << "please enter in a number: ";
     cin >> num;
     cout << "Number entered is:" << num << endl;
-    cout << "omg" << endl;
+    
   return 0;
 }
