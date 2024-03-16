@@ -1,2 +1,2 @@
 # cpsc121
-SI Coding Practice 
+This repository is for the time that I was a Supplemental instruction Senior Leader. 
