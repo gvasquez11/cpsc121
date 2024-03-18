@@ -17,6 +17,7 @@ int main()
     cin >> num;
     cout << "Number entered is:" << num << endl;
     cout << "Worked on work project" << endl;
+    cout << "Break" << endl;
     
   return 0;
 }
