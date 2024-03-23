@@ -19,5 +19,6 @@ int main()
     cout << "Worked on work project" << endl;
     cout << "Break" << endl;
     cout << "Working on work project" << endl;
+    cout << "Long week" << endl;
   return 0;
 }
