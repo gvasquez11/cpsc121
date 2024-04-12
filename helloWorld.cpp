@@ -17,7 +17,6 @@ int main()
     cin >> num;
     cout << "Number entered is:" << num << endl;
     cout << "new line" << endl;
-    cout << "new line" << endl;
 
   return 0;
 }
