@@ -17,8 +17,7 @@ int main()
     cin >> num;
 
     cout << "new line" << endl;
-    cout << "new line" << endl;
-    cout << "new line" << endl;
+
 
 
   return 0;
