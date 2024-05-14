@@ -16,7 +16,7 @@ int main()
     cout << "please enter in a number: ";
     cin >> num;
 
-    cout << "new line" << endl;
+ 
 
 
 
