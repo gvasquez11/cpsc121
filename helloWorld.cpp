@@ -11,7 +11,8 @@ int main()
     cout << "Adding another new line, woohoo!!!" << endl;
     cout << "new line" << endl;
     cout << endl;
-
+    cout << endl;
+    
     int num = 0;
     cout << "please enter in a number: ";
     cin >> num;
