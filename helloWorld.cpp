@@ -10,7 +10,6 @@ int main()
     cout << "Adding a new line, woohoo!!!" << endl;
     cout << "Adding another new line, woohoo!!!" << endl;
     cout << "new line" << endl;
-    cout << "pain" << endl;
     cout << endl;
   
     
